@@ -1,0 +1,35 @@
+body{
+    background-color: chocolate;
+}
+section{
+    width:90vW;
+    height: 80vh;
+    background-color:goldenrod;
+    margin: 50px auto;
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding:40px;
+}
+
+div{
+    width:18vw;
+    height:20vh;
+    background-color: bisque;
+    margin:5px;
+    
+}
+
+#pun{
+    border-radius: 200px ;
+    background-color: chartreuse;
+    color:orange;
+    text-align: center;
+    line-height: 5vw;
+    font-size: 38px;
+    width: 5vw;
+    height: 5vw;
+    margin-left: 90vw;
+    position: absolute;
+    
+}
